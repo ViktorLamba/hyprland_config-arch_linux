@@ -1,0 +1,13 @@
+clash-verge-rev-bin
+debtap
+google-chrome
+insomnia-bin
+networkmanager-dmenu-git
+sddm-astronaut-theme
+visual-studio-code-bin
+waybar-module-pacman-updates-git
+waypaper
+wlogout
+yandex-music
+yay
+yay-debug

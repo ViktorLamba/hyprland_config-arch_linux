@@ -1,0 +1,21 @@
+*.log
+*.cache
+.cache/
+__pycache__/
+*.swp
+*.swo
+
+# secrets
+.env
+*.key
+*.pem
+*.token
+secrets/
+
+# app/session junk
+**/Cache/
+**/cache/
+**/GPUCache/
+**/Code Cache/
+**/Session Storage/
+**/Local Storage/
